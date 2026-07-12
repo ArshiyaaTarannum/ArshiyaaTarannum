@@ -134,7 +134,7 @@ A backend application built using:
 
 <p align="center">
 
-<a href="(https://www.linkedin.com/in/arshiya-tarannum-67b951383/)">
+<a href="https://www.linkedin.com/in/arshiya-tarannum-67b951383/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
