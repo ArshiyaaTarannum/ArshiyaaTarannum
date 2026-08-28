@@ -25,14 +25,16 @@ Building intelligent software, exploring Machine Learning, and learning one proj
 
 ### 📚 Library Management System *(In Progress)*
 
-A backend application built using:
+A full-stack library management system for managing books, copies, members, borrowing, returns, renewals, overdue tracking, and fine management.
 
-- Python
-- Flask
-- MySQL
-- REST APIs
+**Tech:** Python · Flask · MySQL · HTML · CSS · JavaScript · REST APIs · Caspian AI Integration
 
----
+### 🧪 Chemical Inventory & Operations Management *(In Progress)*
+
+A laboratory-focused system for managing chemical inventory, stock records, categorization, and operational workflows.
+
+**Tech:** Python · Flask · MySQL · HTML · CSS · JavaScript · REST APIs
+
 
 ## Tech Stack
 
