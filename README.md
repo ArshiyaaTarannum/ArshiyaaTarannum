@@ -1,40 +1,44 @@
-<h1 align="center">Hi, I'm Arshiya Tarannum</h1>
+<h1 align="center">Hi, I'm Arshiya Tarannum 👋</h1>
 
 <h3 align="center">
-B.Tech Computer Science Engineering (Data Science)
+B.Tech CSE (Data Science) · Backend & AI/ML Enthusiast
 </h3>
 
 <p align="center">
-Building intelligent software, exploring Machine Learning, and learning one project at a time.
+Building practical software, exploring AI/ML, and learning by turning ideas into working projects.
 </p>
 
 ---
 
 ## About Me
 
-- B.Tech Computer Science Engineering (Data Science)
-- Currently learning Machine Learning, FastAPI, Backend Development and Data Structures & Algorithms
-- Interested in Artificial Intelligence, Data Science and Software Engineering
-- Building projects to strengthen my backend and Machine Learning skills
-- Working towards becoming a Machine Learning Engineer
-- Based in India
+*  B.Tech Computer Science Engineering (Data Science)
+*  Interested in Backend Development, Artificial Intelligence, Data Science and Machine Learning
+*  Currently learning Machine Learning, FastAPI, Data Structures & Algorithms and advanced SQL
+*  Building full-stack and backend-focused projects to strengthen my software engineering skills
+*  Exploring AI-powered applications and practical automation
+*  Working towards a career in Machine Learning Engineering
+* 🇮🇳 Based in India
 
 ---
 
 ## Projects
 
-###  Library Management System *(In Progress)*
+### 📚 Library Management System · *In Progress*
 
-A full-stack library management system for managing books, copies, members, borrowing, returns, renewals, overdue tracking, and fine management.
+A full-stack library management system designed to handle day-to-day library operations, including book and copy management, members, borrowing, returns, renewals, overdue tracking and fine management.
 
-**Tech:** Python · Flask · MySQL · HTML · CSS · JavaScript · REST APIs · Caspian AI Integration
+**Tech:** Python · Flask · MySQL · HTML · CSS · JavaScript · REST APIs · Caspian AI
 
-### OpsRelay Chemical Inventory & Operations Management *(In Progress)*
+---
 
-A laboratory-focused system for managing chemical inventory, stock records, categorization, and operational workflows.
+### 🧪 OpsRelay · *In Progress*
+
+A laboratory-focused chemical inventory and operations management system for organizing chemical records, inventory, stock movement and operational workflows.
 
 **Tech:** Python · Flask · MySQL · HTML · CSS · JavaScript · REST APIs
 
+---
 
 ## Tech Stack
 
@@ -66,28 +70,29 @@ A laboratory-focused system for managing chemical inventory, stock records, cate
 
 ## Currently Learning
 
-- Machine Learning
-- FastAPI
-- Backend Development
-- Data Structures & Algorithms
-- REST APIs
-- SQL Optimization
+*  Machine Learning
+*  FastAPI & Backend Development
+*  Data Structures & Algorithms
+*  REST API Design
+*  SQL & Database Optimization
+*  Data Analysis with Python
 
 ---
 
 ## 2026 Goals
 
-- Build production-ready Machine Learning projects
-- Strengthen Data Structures & Algorithms
-- Contribute to Open Source
-- Secure a Machine Learning Internship
-- Continuously improve as a software engineer
+* Build production-oriented Machine Learning projects
+* Strengthen Data Structures & Algorithms
+* Develop stronger backend engineering skills
+* Contribute to Open Source
+* Secure a Machine Learning / AI internship
+* Build and deploy meaningful software projects
 
 ---
 
 ## GitHub
 
-> This profile is a work in progress. New projects, experiments and open-source contributions will be added as I continue learning.
+> Building, experimenting, breaking things, fixing them, and learning along the way.
 
 ---
 
